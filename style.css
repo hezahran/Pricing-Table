@@ -1,5 +1,8 @@
-
-.membership-pricing-table table .icon-no,.membership-pricing-table table .icon-yes {
+body{
+    margin-top: 20px;
+}
+.membership-pricing-table table .icon-no,
+.membership-pricing-table table .icon-yes {
     font-size: 22px
 }
 
@@ -45,7 +48,8 @@
     box-shadow: 0 1px 0 #fff inset
 }
 
-.membership-pricing-table table,.membership-pricing-table table td {
+.membership-pricing-table table,
+.membership-pricing-table table td {
     border: 1px solid #ebebeb
 }
 
@@ -59,7 +63,8 @@
     background-color: #FFF
 }
 
-.membership-pricing-table table tr:first-child td,.membership-pricing-table table tr:nth-child(2) td {
+.membership-pricing-table table tr:first-child td,
+.membership-pricing-table table tr:nth-child(2) td {
     -webkit-box-shadow: none;
     box-shadow: none
 }
