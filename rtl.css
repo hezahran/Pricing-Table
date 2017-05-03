@@ -1,0 +1,6 @@
+* {
+  direction: rtl;
+}
+.membership-pricing-table table tr td:first-child {
+  text-align: left;
+}
